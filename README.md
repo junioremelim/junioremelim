@@ -1,7 +1,7 @@
 ### Olá! Sou o junioremelim... 👋
 
 - 👨🏻‍🏫 Atualmente carreira na área educacional, como Professor de Matemática e Física
-- 👨🏽‍💻 Estou cursando minha terceira graduação, em Engenharia da Computação (03/10)
+- 👨🏽‍💻 Estou cursando minha terceira graduação, em Engenharia da Computação (04/10)
 - 😄 Pronouns: ele/dele
 ##
 <div style="display: inline_block"><br>
